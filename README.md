@@ -8,6 +8,10 @@ I've added places we've already visited or plan to visit, so please give me more
 
 - [x] Walk Lowell
 - [ ] http://www.decordova.org/
+- [ ] Visit Kimball Farms
+- [ ] Boott Cotton Mill Museum/Lowell National Historical Park
+- [ ] Climb Mount Monadnock
+- [ ] Climb/drive Mount Washington
 
 ## Boston
 
@@ -18,6 +22,7 @@ I've added places we've already visited or plan to visit, so please give me more
 - [ ] Some breweries?
 - [ ] Museum of Science
  - [ ] Omni Theater 
+- [ ] Duck Boat Tour
 
 ## Rockport & Halibut Point SP
 
@@ -38,6 +43,8 @@ I've added places we've already visited or plan to visit, so please give me more
 - [x] Spend a day on the beach
 - [x] Newport
  - [x] Cliff walk
+ - [ ] Mansion tour
+- [ ] Fall River - Battleship Cove
 
 ## Cape Cod
 
