@@ -16,6 +16,8 @@ I've added places we've already visited or plan to visit, so please give me more
 - [ ] MIT Museum
 - [ ] Harvard campus
 - [ ] Some breweries?
+- [ ] Museum of Science
+ - [ ] Omni Theater 
 
 ## Rockport & Halibut Point SP
 
