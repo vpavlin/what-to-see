@@ -5,8 +5,10 @@ As we are in US for couple more weeks, we would like to collect some ideas where
 
 I've added places we've already visited or plan to visit, so please give me more!
 ## Short trips
+
 - [x] Walk Lowell
 - [ ] http://www.decordova.org/
+
 ## Boston
 
 - [x] Aquarium
