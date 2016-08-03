@@ -12,6 +12,11 @@ I've added places we've already visited or plan to visit, so please give me more
 - [ ] Boott Cotton Mill Museum/Lowell National Historical Park
 - [ ] Climb Mount Monadnock
 - [ ] Climb/drive Mount Washington
+- [ ] Butterfly Place in Westford (cheap tix available on Groupon)
+- [ ] Hike the Nashoba Brook Watershed Trails off of Trailside Way in Westford - if you're into hiking. A quick hike to a large pond with a sandy beach, ok for picnics
+- [ ] Old North Bridge in Concord
+- [ ] Orchard House in Concord
+- [ ] Minuteman National Park in Lexington
 
 ## Boston
 
@@ -19,7 +24,7 @@ I've added places we've already visited or plan to visit, so please give me more
 - [x] Freedom Trail
 - [ ] MIT Museum
 - [ ] Harvard campus
-- [ ] Some breweries?
+- [ ] Sam Adams Brewery Tour
 - [ ] Museum of Science
  - [ ] Omni Theater 
 - [ ] Duck Boat Tour
@@ -31,7 +36,7 @@ I've added places we've already visited or plan to visit, so please give me more
 
 ## New York
 
-- [ ] Manhatan
+- [ ] Manhattan
 - [ ] Central Park
 
 ## Montreal
@@ -40,7 +45,7 @@ I've added places we've already visited or plan to visit, so please give me more
 
 ## Maine
 
-- [ ] Old Orchard Beach
+- [ ] Old Orchard Beach (might be fun to ride Amtrak to it)
 - [ ] Portland
  - [ ] Bissel Brothers Brewing
  - [ ] Central Provisions
@@ -59,6 +64,7 @@ I've added places we've already visited or plan to visit, so please give me more
  - [x] Cliff walk
  - [ ] Mansion tour
 - [ ] Fall River - Battleship Cove
+- [ ] Water fire - select weekend nights in summer they light torches on the river that runs thru the city and have a city wide festival around the river
 
 ## Cape Cod
 
