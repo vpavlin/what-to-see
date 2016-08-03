@@ -4,7 +4,9 @@ Help us with ideas for trips:)
 As we are in US for couple more weeks, we would like to collect some ideas where to go and what to see. We need some ideas for all-weekend trips but also for something close to Westford which we can use to fill the time gaps and maybe some weekday afternoons/evenings.
 
 I've added places we've already visited or plan to visit, so please give me more!
-
+## Short trips
+- [x] Walk Lowell
+- [ ] http://www.decordova.org/
 ## Boston
 
 - [x] Aquarium
