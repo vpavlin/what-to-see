@@ -38,6 +38,20 @@ I've added places we've already visited or plan to visit, so please give me more
 
 - [ ] See the city
 
+## Maine
+
+- [ ] Old Orchard Beach
+- [ ] Portland
+ - [ ] Bissel Brothers Brewing
+ - [ ] Central Provisions
+ - [ ] All of the Old Port
+ - [ ] Shipyard Brewing Co.
+- [ ] Bar Harbor
+- [ ] Acadia National Park
+ - [ ] Sunrise at Cadillac Mountain
+- [ ] Sebago Lake
+- [ ] Freeport
+
 ## Rhode Island
 
 - [x] Spend a day on the beach
@@ -73,17 +87,5 @@ I've added places we've already visited or plan to visit, so please give me more
 - [x] Visit an amusment park
 - [x] Ride some crazy roller-coasters
 
-## Maine
 
-- [ ] Old Orchard Beach
-- [ ] Portland
- - [ ] Bissel Brothers Brewing
- - [ ] Central Provisions
- - [ ] All of the Old Port
- - [ ] Shipyard Brewing Co.
-- [ ] Bar Harbor
-- [ ] Acadia National Park
- - [ ] Sunrise at Cadillac Mountain
-- [ ] Sebago Lake
-- [ ] Freeport
 
