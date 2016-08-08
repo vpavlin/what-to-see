@@ -24,7 +24,9 @@ I've added places we've already visited or plan to visit, so please give me more
 - [x] Freedom Trail
 - [ ] MIT Museum
 - [ ] Harvard campus
-- [ ] Sam Adams Brewery Tour
+- [ ] Breweries
+  - [ ] Sam Adams Brewery Tour
+  - [x] Harpoon
 - [ ] Museum of Science
  - [ ] Omni Theater 
 - [ ] Duck Boat Tour
